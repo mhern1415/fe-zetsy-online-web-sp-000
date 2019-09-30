@@ -30,5 +30,10 @@ h2 {
     font-weight: bold;
 }
 
+p {
+  color: rgb(85, 85, 85);
+  font-size: 1em;
+  margin: 0 0 20px 0;
+}
 
 /* Write all remaining styles here */
